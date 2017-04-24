@@ -2,6 +2,7 @@
 This is the arcade version of the Battlebits shmoocon game we did in 2016.  
 <img src="https://git.fortegodev.com/FortegoLabs/Battlebits2/raw/master/extra/bb_scrn1.png">
 
+# You can also check out the first version of Battlebits at git@github.com:fortegolabs/battlebits.git
 
 #### Learning PyGame
 
